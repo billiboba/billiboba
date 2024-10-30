@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ3c2lkNnhqbHIzb3I1MHRoc3FobnRvd3BkeWU1b29paGNscm15ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGL6TieAUk10oNO/giphy.gif" width="600" height="300" style="border: 2px solid #39ff14; border-radius: 10px; box-shadow: 0 0 30px #39ff14;"/>
+  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif?cid=790b7611hm5zq18c5x2hvcqpvydy9vx6us1k44osceuduwej&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300" style="border: 2px solid #39ff14; border-radius: 10px; box-shadow: 0 0 30px #39ff14;"/>
 </div>
 <div style="background-color: #000000; padding: 20px; border-radius: 10px; box-shadow: 0 0 30px #39ff14;">
 <h2 align="center" style="color:#39ff14; text-shadow: 0px 0px 10px #39ff14, 0px 0px 20px #39ff14;">
