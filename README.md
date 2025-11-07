@@ -82,7 +82,7 @@ Users can:
 
 ## 🌐 Connect
 <div align="center" style="margin-top:15px;">
-  <a href="https://novaraai.duckdns.org" target="_blank">
+  <a href="https://novaraaibot.duckdns.org" target="_blank">
     <img src="https://img.shields.io/badge/NOVARA%20Website-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://t.me/romakor19" target="_blank">
