@@ -5,10 +5,10 @@
   border-radius: 15px;
   border: 2px solid #A855F7;
   box-shadow: 0 0 20px #9333EA, 0 0 60px #A855F7, inset 0 0 25px #9333EA;">
-  <img src="https://raw.githubusercontent.com/billiboba/billiboba/main/NovaraDesign1.png" 
-       width="500" 
+  <img src="https://raw.githubusercontent.com/billiboba/billiboba/main/NovaraDesign4.png" 
+       width="700" 
        alt="NOVARA Logo"
-       style="border-radius:12px; box-shadow:0 0 50px #9333EA;"/>
+       style="border-radius:12px; box-shadow:0 0 60px #9333EA;"/>
 </div>
 
 <h2 align="center" style="color:#A855F7; text-shadow:0 0 25px #9333EA; margin-top:20px;">
@@ -62,12 +62,15 @@ Users can:
 
 ## 🧠 Technologies
 <div align="center" style="padding:10px; border-radius:10px; border:1px solid #A855F7; box-shadow:0 0 25px #9333EA;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" height="45" title="C#"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45" title="React"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" width="45" height="45" title="Vite"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45" title="Git"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" height="45" title="HTML"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45" title="AI / Machine Learning (Python)"/>&nbsp;
 </div>
 
 ---
