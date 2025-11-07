@@ -1,49 +1,97 @@
-## Hi there 👋
-<div align="center">
-  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif?cid=790b7611hm5zq18c5x2hvcqpvydy9vx6us1k44osceuduwej&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300" style="border: 2px solid #39ff14; border-radius: 10px; box-shadow: 0 0 30px #39ff14;"/>
+<!-- NOVARA Official GitHub Profile -->
+<div align="center" style="
+  background: radial-gradient(circle at 50% 50%, #150025, #050008);
+  padding: 35px;
+  border-radius: 15px;
+  border: 2px solid #A855F7;
+  box-shadow: 0 0 20px #9333EA, 0 0 60px #A855F7, inset 0 0 25px #9333EA;">
+  <img src="https://raw.githubusercontent.com/billiboba/billiboba/main/NovaraDesign1.png" 
+       width="500" 
+       alt="NOVARA Logo"
+       style="border-radius:12px; box-shadow:0 0 50px #9333EA;"/>
 </div>
-<div style="background-color: #000000; padding: 20px; border-radius: 10px; box-shadow: 0 0 30px #39ff14;">
-<h2 align="center" style="color:#39ff14; text-shadow: 0px 0px 10px #39ff14, 0px 0px 20px #39ff14;">
-  :man_technologist: About Me
+
+<h2 align="center" style="color:#A855F7; text-shadow:0 0 25px #9333EA; margin-top:20px;">
+  ⚡ NOVARA — AI-Powered Trading Ecosystem
 </h2>
 
----
-
-### 🎓 Education
-- **University**: Siberian State University of Telecommunications and Information Sciences (СибГУТИ)
-- **Faculty**: Computer Science and Engineering
-- **Year**: 4th-Year Student
-
-### 🔧 Skills & Interests
-- **Programming Languages**: C#
-- **Technologies**: Linux, Git, Visual Studio, Docker
-- **Specializations**: Software Development, Algorithms, Database Management
+<p align="center" style="color:#C084FC; font-size:16px;">
+  Smarter • Faster • Autonomous
+</p>
 
 ---
 
-<h3 align="center" style="color:#39ff14; text-shadow: 0px 0px 10px #39ff14;">
-  :hammer_and_wrench: Languages and Tools
-</h3>
+## 🇷🇺 О проекте
+**NOVARA** — инновационная технология в сфере криптотрейдинга,  
+созданная, чтобы сделать **интеллектуальную торговлю доступной каждому**.  
+
+Возможности:
+- автоматические стратегии торговли,  
+- создание персональных ИИ-моделей,  
+- партнёрская программа для дополнительного дохода.  
+
+**CEO:** Роман ([@romakor19](https://t.me/romakor19))  
+**Команда:** разработчики и профессиональные трейдеры.  
+**Миссия:** создать открытую и умную экосистему трейдинга будущего.  
+
+---
+
+## 🇬🇧 About the Project
+**NOVARA** is an innovative AI-driven crypto-trading technology  
+designed to make **intelligent automation accessible to everyone**.  
+
+Users can:
+- trade through autonomous AI strategies,  
+- build and deploy personal trading models,  
+- earn via the NOVARA affiliate program.  
+
+**CEO:** Roman ([@romakor19](https://t.me/romakor19))  
+**Team:** software engineers and professional traders.  
+**Mission:** create a transparent and intelligent trading ecosystem of the future.  
+
+---
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" style="box-shadow: 0px 0px 10px #39ff14; border-radius: 5px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" style="box-shadow: 0px 0px 10px #39ff14; border-radius: 5px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" style="box-shadow: 0px 0px 10px #39ff14; border-radius: 5px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="box-shadow: 0px 0px 10px #39ff14; border-radius: 5px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40" style="box-shadow: 0px 0px 10px #39ff14; border-radius: 5px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" style="box-shadow: 0px 0px 10px #39ff14; border-radius: 5px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40" style="box-shadow: 0px 0px 10px #39ff14; border-radius: 5px;"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/billiboba/billiboba/main/NovaraDesign2.png" 
+       width="220" 
+       alt="NOVARA Symbol"
+       style="margin-top:25px; border-radius:10px; box-shadow:0 0 40px #A855F7, 0 0 80px #9333EA;"/>
 </div>
 
 ---
 
-<h3 align="center" style="color:#39ff14; text-shadow: 0px 0px 10px #39ff14;">
-  :fire: My Stats
-</h3>
+## 🧠 Technologies
+<div align="center" style="padding:10px; border-radius:10px; border:1px solid #A855F7; box-shadow:0 0 25px #9333EA;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+</div>
 
+---
+
+## 📊 GitHub Stats
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=billiboba&theme=neon-palenight&background=000000" alt="GitHub Streak" width="400" style="border: 2px solid #39ff14; border-radius: 10px; box-shadow: 0 0 30px #39ff14;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=billiboba&theme=midnight-purple&background=0A0015&border=A855F7&ring=A855F7&fire=9333EA" width="400"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=billiboba&show_icons=true&theme=midnight-purple&bg_color=0A0015&title_color=A855F7&icon_color=9333EA&text_color=C084FC" width="400"/>
+</div>
+
+---
+
+## 🌐 Connect
+<div align="center" style="margin-top:15px;">
+  <a href="https://novaraai.duckdns.org" target="_blank">
+    <img src="https://img.shields.io/badge/NOVARA%20Website-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://t.me/romakor19" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-A855F7?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
+
+---
+
+<div align="center" style="color:#A855F7; font-weight:bold; font-size:18px; text-shadow:0 0 10px #9333EA;">
+  NOVARA — The Future of Autonomous Trading
 </div>
