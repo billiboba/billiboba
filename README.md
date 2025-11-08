@@ -70,7 +70,6 @@ Users can:
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" height="45" title="HTML"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45" title="AI / Machine Learning (Python)"/>&nbsp;
 </div>
 
 ---
